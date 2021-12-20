@@ -1,0 +1,44 @@
+Effective Communication
+Introduction
+In this lab, you’ll practice effective communication through responding to prompts for different situations you might encounter in the workplace.
+
+Part One
+In this part, you will be responding to 2 customers through email. Please read both emails thoroughly and write a response for each.
+
+Tips
+Take time strategizing your response, responding right away might come across as defensive.
+
+Acknowledge your customer’s frustration and be empathetic.
+
+Be concise and factual in your response.
+
+Assure the customer you are taking action.
+
+Email One
+Hi engineering team,
+
+It has been a year since we purchased employee management software from you guys. with every release this software is getting worse, what the heck are you guys doing there?? We are encountering so many bugs with your software that it makes our life a living hell. If you can’t build and test this piece of garbage you sell, please do us a favor and just stop making software. We requested a feature upgrade over a month ago and have seen no improvements or even a decent response. It is starting to feel like a big scam! We are ready to throw in the towel and buy what we need from someone else.
+
+Sincerely,
+You're about to lose a customer
+
+John
+Email Two
+Hello,
+
+You all rock, we are users of employee management software. I would like to express how happy I and everyone on the team is with this application. We made the decision to switch your employee manager based on industry feedback in regard to this application. We are very pleased with the constant improvement to both the user experience and functionality of the application. Please continue the great work.
+
+Best,
+Jane
+Part Two
+Within each team and company, there are many different procedures/processes to accomplish a task. These methods were created to improve the speed, cost, and other attributes of a project. With the improvement of technology and more effective methodologies, these procedures and processes are subject to changes.
+
+Based on the following 2 scenarios, email your boss and recommend improvements to the process (or the like).
+
+Scenario One
+On average a QA Engineer at your company spends 3-4 hours a day on running manual test cases for a UI web application in addition to spending another 3-4 hours maintaining/updating test documents for the application. Every time there is a new update or a bug fix that needs to be released, it takes the QA engineer more than a week to complete regression testing of the application. What would you recommend in this situation?
+
+Scenario Two
+Your company has recently made a switch and now everyone works from home. After a few days, you noticed individuals on the team are not very responsive to messages. The project is getting behind and the part you’re working on is blocked due to their lack of response. Current management has already made it a requirement for all employees to be “online” during hours recorded “on the clock” but many employees remain unresponsive. What could you do in this situation?
+
+When you have written all of your responses, upload them to GitHub.
